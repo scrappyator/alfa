@@ -1,5 +1,7 @@
 # Alfa Project
 
+<pre>3b72e465c8d07950cf6f48013b6a364330e2dd1e</pre>
+
 ## Django + Scrapy + Cassandra/MongoDB + Python3 + Gitpod
 
 <p> This repo is setup to start working on scrappers and ETL Toolkit = Django + Scrapy + Cassandra/MongoDB + Python3 + Gitpod </p>
