@@ -1,5 +1,13 @@
 # Alfa Project
 
+Token for Github 
+
+<pre>
+<code>
+de7d47815e36712a58f187668d3d7a8a6f5e0d96
+</code>
+</pre>
+
 Token for Azure :
 <pre><code>
 3b72e465c8d07950cf6f48013b6a364330e2dd1e
